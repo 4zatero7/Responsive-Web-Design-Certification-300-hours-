@@ -1,2 +1,6 @@
 # Responsive-Web-Design-Certification-300-hours-
-visit course on: https://www.freecodecamp.org/
+
+Course completed on: https://www.freecodecamp.org/
+
+![Picture_of_certificate](certificate.png)
+
